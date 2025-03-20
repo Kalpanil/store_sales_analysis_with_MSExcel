@@ -23,6 +23,9 @@ The dashboard includes slicers for interactive data filtering. You can filter da
 - Microsoft Excel (2016 or later) with support for Pivot Tables and Charts.
 - Data source in a compatible format (e.g., Excel, CSV).
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/4e71501d-2b5b-4eab-8345-306e08da22c3)
+
 ## How to Use
 1. Open the Excel file.
 2. Interact with the slicers to filter data dynamically.
